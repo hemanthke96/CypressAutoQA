@@ -11,6 +11,6 @@ describe('Test1', () =>{
         //cy.title().should('eq', 'Demo Web Shop')
         expect(name).to.not.equal('kane')
     })
-
+    // git added successfully
     
 })
